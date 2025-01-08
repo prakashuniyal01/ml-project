@@ -1,6 +1,6 @@
 ## project senario
-```bash
-1. # Business Intelligence Dashboard
+
+# 1. Business Intelligence Dashboard
 
 A comprehensive business data visualization application built using **Django**. This platform integrates data from **Google Sheets**, provides insightful **data analytics**, performs **ML-based forecasting**, and generates downloadable **PDF reports**. Perfect for businesses to track KPIs, sales trends, and more!
 
@@ -89,4 +89,4 @@ This project aims to provide an easy-to-use dashboard that allows businesses to 
 - **Data Processing:**
   - Range checks on input data.
   - Consistency checks for uploaded data before it’s processed.
-```
+
